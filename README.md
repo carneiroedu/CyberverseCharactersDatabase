@@ -1,8 +1,6 @@
-## **## Readme.md Descontraído para o seu Projeto**
+## **## Character Database de Fantasmas do Cyberverso!**
 
-### **Fantasmas do Cyberverso: Uma Busca Rápida pelos Personagens**
-
-** Mergulhe no mundo dos Fantasmas do Cyberverso!**
+** Se torne um com a Matriz! **
 
 Essa aplicação simples, mas poderosa, permite que você explore o universo dos personagens do meu próximo livro de uma forma rápida e divertida. 
 
