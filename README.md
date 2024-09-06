@@ -1,4 +1,4 @@
-## **## Character Database de Fantasmas do Cyberverso!**
+## **Character Database de Fantasmas do Cyberverso!**
 
 **Se torne um com a Matriz!**
 
