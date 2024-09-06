@@ -22,6 +22,15 @@ Essa aplicação simples, mas poderosa, permite que você explore o universo dos
 2. **Abra o index.html:** Abra o arquivo `index.html` em seu navegador favorito.
 3. **Comece a pesquisar:** Divirta-se explorando o mundo dos personagens!
 
+**Personagens para pesquisar**:
+1. Victor
+2. Rosa
+3. Wrecker
+4. Ellen
+5. Nova
+6. Blitz
+7. Kenji
+
 **Observações:**
 
 * **Banco de dados:** Os dados dos personagens estão armazenados no arquivo `dados.js`.
